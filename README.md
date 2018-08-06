@@ -12,9 +12,12 @@ Create a basic calculator using react. Your app should have below mentioned func
 ## Tasks:
 1) Present all digits(0 to 9) and five symbols (*, %, +, -, =) and a display area (No need to write fancy css).
 
-2) Allow all four operations to happen. User should be able to use last result with a variable "_". For simplicity you can clear the screen once user presses a symbol.
+2) Allow all four operations to happen. User should be able to use last result with a variable "_" (underscore).
 
-3) Allow user to use both keyboard or onscreen fields.
+3) Allow user to use both keyboard and onscreen fields.
+
+4) For simplicity you can clear the screen once user presses a symbol.
+
 
 Eg:
   * User presses 1123 (Display area shows 1123)
